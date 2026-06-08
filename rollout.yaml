@@ -28,6 +28,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: 816069142280.dkr.ecr.ap-northeast-2.amazonaws.com/myapp:v1
+        image: 816069142280.dkr.ecr.ap-northeast-2.amazonaws.com/demo:v1
         ports:
         - containerPort: 80
